@@ -1,0 +1,5 @@
+H:/Unity/Light And Interactable object/.utmp/Debug/6w2p4y33/arm64-v8a/CMakeFiles/edit_cache.dir
+H:/Unity/Light And Interactable object/.utmp/Debug/6w2p4y33/arm64-v8a/CMakeFiles/rebuild_cache.dir
+H:/Unity/Light And Interactable object/.utmp/Debug/6w2p4y33/arm64-v8a/GameActivity/CMakeFiles/game.dir
+H:/Unity/Light And Interactable object/.utmp/Debug/6w2p4y33/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+H:/Unity/Light And Interactable object/.utmp/Debug/6w2p4y33/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
